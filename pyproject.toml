@@ -2,7 +2,7 @@
 name = "keras_glove"
 version = "0.1.0"
 description = "GloVe implementation with Keras"
-authors = ["Thanos Papaoikonomou <thanos.papaoikonomou@gmail.com>"]
+authors = []
 license = "MIT"
 
 [tool.poetry.dependencies]
